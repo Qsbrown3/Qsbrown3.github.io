@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+
+body {
+  padding-bottom: 5rem;
+}
+
+>>>>>>> checkpoint-11-styles
 header {
   background: url(../images/heropage2.jpg) center / cover;
   height: 60vh;
@@ -15,3 +23,37 @@ h1 {
   color: hsla(25, 100%, 97%, 0.7);
   font-size: 1.6rem;
 }
+<<<<<<< HEAD
+=======
+
+main {
+  max-width: 900px;
+}
+
+.project-description {
+  padding-left: 0;
+}
+
+.project img {
+  width: 100%;
+}
+
+footer.mdl-mini-footer {
+  bottom: 0;
+  padding: 0.5rem;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+footer.mdl-mini-footer > ul {
+  margin: auto;
+  font-size: 3rem;
+}
+
+@media screen and (max-width: 1024px) {
+  header.mdl-layout__header {
+    display: flex;
+  }
+}
+>>>>>>> checkpoint-11-styles
