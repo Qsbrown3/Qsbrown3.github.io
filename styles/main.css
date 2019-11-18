@@ -1,0 +1,17 @@
+header {
+  background: url(../images/heropage2.jpg) center / cover;
+  height: 60vh;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  color: hsla(25, 100%, 97%, 0.9);
+}
+
+.slogan {
+  font-weight: lighter;
+  color: hsla(25, 100%, 97%, 0.7);
+  font-size: 1.6rem;
+}
