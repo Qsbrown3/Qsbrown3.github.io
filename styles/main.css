@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-=======
 
 body {
   padding-bottom: 5rem;
 }
 
->>>>>>> checkpoint-11-styles
 header {
   background: url(../images/heropage2.jpg) center / cover;
   height: 60vh;
@@ -23,8 +20,6 @@ h1 {
   color: hsla(25, 100%, 97%, 0.7);
   font-size: 1.6rem;
 }
-<<<<<<< HEAD
-=======
 
 main {
   max-width: 900px;
@@ -56,4 +51,3 @@ footer.mdl-mini-footer > ul {
     display: flex;
   }
 }
->>>>>>> checkpoint-11-styles
